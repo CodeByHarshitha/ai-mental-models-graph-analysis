@@ -1,0 +1,32 @@
+graph_id,role_background,num_nodes,num_edges,density,connected_components,top_bridge_concept
+COMBINED_COLLECTIVE,All Participants,12,55,0.8333,1,AI
+P01,Software Engineer,5,7,0.7,1,Data
+P02,Data Analyst,6,9,0.6,1,Algorithms
+P03,CS Student,7,11,0.5238,1,Learning
+P04,IT Administrator,4,5,0.8333,1,Data
+P05,Robotics Tech,6,9,0.6,1,Data
+P06,Product Manager,6,9,0.6,1,Decision-Making
+P07,Backend Developer,5,7,0.7,1,Learning
+P08,Research Intern,6,9,0.6,1,Data
+P09,Policy Researcher,7,11,0.5238,1,Bias
+P10,Journalist,7,11,0.5238,1,Jobs
+P11,Labor Union Rep,6,9,0.6,1,Humans
+P12,Law Student,7,11,0.5238,1,Bias
+P13,Sociologist,6,9,0.6,1,AI
+P14,HR Specialist,7,11,0.5238,1,Algorithms
+P15,Civil Servant,5,7,0.7,1,Bias
+P16,Educator,6,9,0.6,1,Jobs
+P17,Graphic Designer,3,3,1.0,1,AI
+P18,Content Writer,4,5,0.8333,1,Intelligence
+P19,Marketing Lead,4,5,0.8333,1,Creativity
+P20,Musician,5,7,0.7,1,Data
+P21,UX Researcher,3,3,1.0,1,AI
+P22,Architect,4,5,0.8333,1,AI
+P23,Illustrator,5,7,0.7,1,Creativity
+P24,Retail Manager,6,9,0.6,1,Algorithms
+P25,Healthcare Nurse,4,5,0.8333,1,Humans
+P26,High School Teacher,5,7,0.7,1,Learning
+P27,Small Business Owner,4,5,0.8333,1,Automation
+P28,Accountant,6,9,0.6,1,Data
+P29,Retired Librarian,5,7,0.7,1,Intelligence
+P30,Operations Coordinator,5,7,0.7,1,Automation

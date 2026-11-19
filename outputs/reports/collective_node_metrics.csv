@@ -1,0 +1,13 @@
+concept,category,participant_frequency,weighted_degree,degree_centrality,betweenness_centrality,closeness_centrality
+AI,Core Entity,30,54.5,1.0,0.1636,4.051
+Data,Technical Infrastructure,20,54.0,1.0,0.3273,4.2981
+Humans,Human Agency,20,42.5,0.9091,0.1545,3.9099
+Automation,Application & Impact,15,31.5,0.9091,0.0,2.9469
+Algorithms,Technical Infrastructure,12,29.5,1.0,0.0,2.7293
+Intelligence,Core Entity,10,25.0,0.8182,0.0,2.9179
+Decision-Making,Application & Impact,12,24.0,0.7273,0.0,2.8046
+Bias,Ethics & Governance,9,23.5,0.8182,0.0,2.6313
+Jobs,Socio-Economic Impact,9,22.5,0.8182,0.0,2.5359
+Learning,Technical Infrastructure,7,19.0,0.7273,0.0,2.502
+Creativity,Human Agency,8,16.5,0.6364,0.0,2.5268
+Trust,Ethics & Governance,7,14.5,0.6364,0.0,1.9956

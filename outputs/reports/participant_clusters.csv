@@ -1,0 +1,31 @@
+participant_id,role_background,cluster_id,cluster_label,concepts,mds_x,mds_y
+P01,Software Engineer,2,Cluster 2: Data + Automation + Algorithms,AI|Algorithms|Data|Learning|Automation,0.3153,0.3463
+P02,Data Analyst,2,Cluster 2: Data + Automation + Algorithms,AI|Intelligence|Algorithms|Data|Learning|Decision-Making,0.4188,0.1817
+P03,CS Student,2,Cluster 2: Data + Automation + Algorithms,AI|Algorithms|Learning|Data|Intelligence|Humans|Automation,0.2661,0.2036
+P04,IT Administrator,2,Cluster 2: Data + Automation + Algorithms,Automation|Data|AI|Decision-Making,0.0626,0.2947
+P05,Robotics Tech,2,Cluster 2: Data + Automation + Algorithms,Intelligence|AI|Data|Decision-Making|Algorithms|Automation,0.2848,0.0925
+P06,Product Manager,2,Cluster 2: Data + Automation + Algorithms,AI|Data|Decision-Making|Automation|Learning|Algorithms,0.1976,0.3648
+P07,Backend Developer,2,Cluster 2: Data + Automation + Algorithms,Algorithms|AI|Learning|Automation|Data,0.2931,0.4119
+P08,Research Intern,2,Cluster 2: Data + Automation + Algorithms,AI|Intelligence|Data|Algorithms|Humans|Decision-Making,0.1469,-0.0093
+P09,Policy Researcher,3,Cluster 3: Bias + Humans + Jobs,AI|Decision-Making|Bias|Data|Trust|Humans|Jobs,-0.0744,-0.4071
+P10,Journalist,3,Cluster 3: Bias + Humans + Jobs,AI|Intelligence|Jobs|Automation|Algorithms|Bias|Trust,0.4116,-0.3411
+P11,Labor Union Rep,3,Cluster 3: Bias + Humans + Jobs,Automation|AI|Humans|Jobs|Bias|Decision-Making,0.1766,-0.3994
+P12,Law Student,3,Cluster 3: Bias + Humans + Jobs,AI|Decision-Making|Bias|Data|Trust|Algorithms|Humans,-0.0015,-0.3245
+P13,Sociologist,3,Cluster 3: Bias + Humans + Jobs,Humans|Bias|AI|Data|Jobs|Trust,-0.2012,-0.4385
+P14,HR Specialist,3,Cluster 3: Bias + Humans + Jobs,Automation|AI|Algorithms|Jobs|Bias|Humans|Decision-Making,0.2711,-0.3256
+P15,Civil Servant,3,Cluster 3: Bias + Humans + Jobs,Trust|AI|Bias|Jobs|Humans,-0.0969,-0.5649
+P16,Educator,3,Cluster 3: Bias + Humans + Jobs,AI|Trust|Jobs|Humans|Bias|Automation,0.0762,-0.5317
+P17,Graphic Designer,1,Cluster 1: Creativity + Humans + Data,AI|Humans|Creativity,-0.4778,0.2294
+P18,Content Writer,1,Cluster 1: Creativity + Humans + Data,AI|Intelligence|Humans|Creativity,-0.5067,-0.0198
+P19,Marketing Lead,1,Cluster 1: Creativity + Humans + Data,AI|Creativity|Data|Humans,-0.4214,0.1152
+P20,Musician,1,Cluster 1: Creativity + Humans + Data,AI|Intelligence|Data|Creativity|Humans,-0.4243,-0.0372
+P21,UX Researcher,1,Cluster 1: Creativity + Humans + Data,AI|Humans|Creativity,-0.4872,0.2157
+P22,Architect,1,Cluster 1: Creativity + Humans + Data,Creativity|AI|Automation|Humans,-0.3031,0.4105
+P23,Illustrator,1,Cluster 1: Creativity + Humans + Data,AI|Learning|Creativity|Data|Humans,-0.3035,0.2477
+P24,Retail Manager,2,Cluster 2: Data + Automation + Algorithms,AI|Intelligence|Algorithms|Automation|Data|Jobs,0.4298,0.0413
+P25,Healthcare Nurse,2,Cluster 2: Data + Automation + Algorithms,AI|Humans|Data|Decision-Making,-0.1574,-0.0364
+P26,High School Teacher,2,Cluster 2: Data + Automation + Algorithms,AI|Intelligence|Learning|Data|Bias,0.477,-0.0889
+P27,Small Business Owner,1,Cluster 1: Creativity + Humans + Data,AI|Automation|Creativity|Algorithms,-0.0986,0.5322
+P28,Accountant,2,Cluster 2: Data + Automation + Algorithms,Automation|AI|Data|Humans|Jobs|Decision-Making,0.0143,-0.0706
+P29,Retired Librarian,2,Cluster 2: Data + Automation + Algorithms,AI|Data|Intelligence|Humans|Trust,-0.2919,-0.2255
+P30,Operations Coordinator,2,Cluster 2: Data + Automation + Algorithms,AI|Data|Automation|Decision-Making|Humans,0.0042,0.1329
